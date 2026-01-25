@@ -60,6 +60,8 @@ Together, these provide a **full visual and gameplay overhaul**, including:
 
 ### Easy Start (Recommended)
 
+Clone or download this repository
+
 Double-click:
 
 ```
