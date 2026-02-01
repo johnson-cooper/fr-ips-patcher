@@ -19,10 +19,11 @@ This README is written to ship with the patch. It explains features, installatio
 * **Enhanced Trainer Battles** — All trainer teams have been improved with better movesets and more thematic Pokémon.
 * **Stronger Wild Encounters** — Wild Pokémon rosters and AI have been upgraded for more engaging encounters.
 * **Boss & Trainer Additions** — Bosses have two extra Pokémon; important and regular trainers typically have one extra Pokémon added for challenge balance.
-* **No Battle Potions (Optional / Set Battle Style)** — Potion-like healing items are removed from battle under the set battle style — plan ahead.
+* **No Battle Potions (Set Battle Style)** — Potion-like healing items are removed from battle under the set battle style — plan ahead.
 * **Deletable HMs** — HMs can be permanently removed after use for quality-of-life.
 * **Updated Graphics** — Sprites, battle boxes, HP bars, and UI elements updated with DS/Generation II-inspired assets and Emerald-style menus.
 * **Level Caps & Balance Tweaks** — Level cap system implemented for balance. EV caps and related changes added for competitive-style progression.
+* **New Bosses & Rewards** — Fight new boss trainers like Prof. Oak & more !
 * **Extras & QoL Changes** (from Extras patch):
 
   * Faster save times
